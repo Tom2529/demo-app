@@ -94,3 +94,5 @@ b) Paste the join command you got from the master node and append --v=5 at the e
 Verify if it is working as expected!
 
 kubectl get nodes
+
+test
